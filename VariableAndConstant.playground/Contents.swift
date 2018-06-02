@@ -22,6 +22,18 @@ let surnameSting = "Phrombutr"
 
 //surnameSting = "NewSurName"
 
+//การประกาศตัวแปรแบบ กำหนด Data Type
+//Explecit Variable
+
+var name2String: String = "Doramon"
+var number2Int: Int = 123
+var number2Dou: Double = 12.123
+var status2Bol: Bool = false
+
+
+
+
+
 
 
 
