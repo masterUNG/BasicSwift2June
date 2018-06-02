@@ -30,6 +30,11 @@ var number2Int: Int = 123
 var number2Dou: Double = 12.123
 var status2Bol: Bool = false
 
+//Show Value on Console
+print("Sawatdee")
+print("name2String = \(name2String)")
+print("\(nameString) ==> \(numberInt)")
+
 
 
 
